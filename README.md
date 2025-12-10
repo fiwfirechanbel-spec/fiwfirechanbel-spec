@@ -11,5 +11,5 @@ Passionate about coding, technology, and solving problems.
 - 📫 How to reach me: **fiwfirechanbel@gmail.com**
 ---
 ### 🛠️ Languages and Tools
-**Languages:** Python, C, Java, HTML/CSS
+**Languages:** C, Java, HTML/CSS
 **Tools:** VS Code, Git, Ubuntu
