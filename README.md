@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Pooriwat! 👋
 
-<!--
-**fiwfirechanbel-spec/fiwfirechanbel-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 2nd-year Computer Science Student at Huachiew chalermprakiet university.
+Passionate about coding, technology, and solving problems.
+---
+### 🚀 About Me
+- 🔭 I’m currently working on **Operating Systems (Ubuntu Server) & HCI Projects**
+- 🌱 I’m currently learning **Server Administration & Mobile App Development**
+- 👯 I’m looking to collaborate on **Open Source projects & Tech Startups**
+- 💬 Ask me about **C, Java, and OS concepts**
+- 📫 How to reach me: **fiwfirechanbel@gmail.com**
+---
+### 🛠️ Languages and Tools
+**Languages:** Python, C, Java, HTML/CSS
+**Tools:** VS Code, Git, Ubuntu
